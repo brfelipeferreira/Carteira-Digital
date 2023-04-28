@@ -6,12 +6,12 @@
             <td align="center">
                 <img style="border-radius: 50%;" src="https://github.com/brfelipeferreira.png?size=200" width="120px;" alt=""/>
                 <br/><sub><b>Felipe Ferreira</b></sub></a><br/>
-                <a title="">R.A: 00111552</a>
+                <a href="https://github.com/brfelipeferreira" title="">R.A: 00111552</a>
             </td>
             <td align="center">
                 <img style="border-radius: 50%;" src="https://github.com/rafastrombeck.png?size=200" width="120px;" alt=""/>
                 <br/><sub><b>Rafaela Navarro</b></sub></a><br/>
-                <a title="">R.A: 00111331</a>
+                <a href="https://github.com/rafastrombeck" title="">R.A: 00111331</a>
             </td>
         </tr>
     </table>
