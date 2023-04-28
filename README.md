@@ -17,7 +17,7 @@
     </table>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Engenharia+da+Computação;Carteira+Digital;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f74a5e&size=35&center=true&vCenter=true&width=1000&lines=Engenharia+da+Computação;Carteira+Digital;)](https://git.io/typing-svg)
 
 ##
 
